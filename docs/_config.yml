@@ -1,0 +1,9 @@
+remote_theme: pages-themes/midnight@v0.2.0
+# cf. https://github.com/pages-themes/midnight?tab=readme-ov-file#customizing
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: [Mos-kus bushcraft]
+tagline: [door wild mos gekust]
+description: [Over mos-kus bushcraft, en hoe deel te nemen]
