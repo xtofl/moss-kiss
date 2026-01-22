@@ -1,6 +1,6 @@
 # Mos-kus Bushcraft
 
-Een deur naar onze (wildernis)[wildernis.md]
+Een deur naar onze [wildernis](wildernis.md)
 
 ## Missie
 
