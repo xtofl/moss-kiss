@@ -1,3 +1,6 @@
+---
+permalink: /wildernis
+---
 # Wildernis
 
 Wat is dat?  Klinkt leuk!  Wil ik heen!

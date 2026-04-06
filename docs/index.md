@@ -1,8 +1,10 @@
+---
+---
 # Mos-kus Bushcraft
 
-Een deur naar onze [wildernis](wildernis.md)
+Een deur naar onze [wildernis](/wildernis)
 
-Check het [aanbod](aanbod.md)
+Check het [aanbod](/aanbod)
 
 ## Missie
 
@@ -15,7 +17,7 @@ dan doorverwijzen naar opleidingen bij collega's.
 
 ## Contact
 
-Moss-kiss bushcraft.  [info@moskus.be](mailto://info@moskus.be).
+Moss-kiss bushcraft.  [moss-kiss.be@proton.me](mailto://moss-kiss.be@proton.me).
 
 * BTW-nummer: BE1031604007
 * peppol-id: 0208:1031604007

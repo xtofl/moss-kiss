@@ -1,3 +1,6 @@
+---
+permalink: /aanbod
+---
 # Aanbod bij Moskus
 
 Introducties, dagworkshops, weekends.
