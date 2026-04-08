@@ -2,9 +2,9 @@
 ---
 # Mos-kus Bushcraft
 
-Een deur naar onze [wildernis](/wildernis)
+Een deur naar onze [wildernis](wildernis)
 
-Check het [aanbod](/aanbod)
+Check het [aanbod](aanbod)
 
 ## Missie
 
