@@ -1,9 +1,16 @@
 ---
 permalink: /aanbod
 ---
-# Aanbod bij Moskus
+# Aanbod bij Mos-kus
 
 Introducties, dagworkshops, weekends.
+
+* intro: one stick fire
+* wilde plantenwandeling (seizoensgebonden)
+* koken op kampvuur
+* nieuw: dag: 3 soorten kampvuur
+* nieuw: dag: spanzaag met vers hout
+* nieuw: dag: rugzak met vers hout
 
 ## Op maat
 
