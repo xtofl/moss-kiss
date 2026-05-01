@@ -5,7 +5,7 @@ permalink: /contact
 
 ## Contact
 
-Moss-kiss bushcraft.  [moss-kiss.be@proton.me](mailto://moss-kiss.be@proton.me).
+Moss-kiss bushcraft.  [info@moss-kiss.be](mailto://info@moss-kiss.be).
 
 * BTW-nummer: BE1031604007
 * peppol-id: 0208:1031604007
