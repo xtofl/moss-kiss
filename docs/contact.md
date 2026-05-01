@@ -11,3 +11,5 @@ Moss-kiss bushcraft.  [moss-kiss.be@proton.me](mailto://moss-kiss.be@proton.me).
 * peppol-id: 0208:1031604007
 * Rekening BE78 7390 2947 7186
 * Ondernemingsnummer: 1031604007
+
+[about this website](/about-site)
