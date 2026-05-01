@@ -17,14 +17,15 @@ permalink: /aanbod
 
 ## Dagworkshops
 
-* nieuw: dag: 3 soorten kampvuur
-* binnenkort: dag: spanzaag met vers hout
-* binnenkort: dag: rugzak met vers hout
+* in aanbouw: 3 soorten kampvuur
+* in aanbouw: spanzaag met vers hout
+* in aanbouw: rugzak met vers hout
 
 ## One-nighters en weekends
 
-Het is zo veel leuker als de vogels je wakkerfluiten, en je
-zachtjes ochtendfrisse buitenlucht over je wangen voelt strijken.
+Een dag begint is zo veel leuker als de vogels je
+wakkerfluiten, en je zacht de frisse ochtendlucht
+over je wangen voelt strijken.
 
 Bij een one-nighter komen we 's avonds samen, en beginnen we
 vroeg aan de dag.  De 'echte' activiteit begint na een ontbijt
