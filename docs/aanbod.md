@@ -10,10 +10,10 @@ permalink: /aanbod
 * Proef van wilde planten en 'onkruid' tijdens een [wildplukwandeling] (seizoensgebonden)
 * Bereid je eigen maaltijd: [koken op kampvuur]
 
-[tondelwandeling]: tondelwandeling
-[one stick fire]: aanbod/one-stick-fire
-[wildplukwandeling]: /aanbod/wildplukwandeling
-[koken op kampvuur]: /aanbod/koken-op-kampvuur
+[tondelwandeling]: ./tondelwandeling
+[one stick fire]: ./one-stick-fire
+[wildplukwandeling]: ./wildplukwandeling
+[koken op kampvuur]: ./koken-op-kampvuur
 
 ## Dagworkshops
 
@@ -52,3 +52,5 @@ van mijn tarp veel langer duurt dan voordien.
 
 Daarom wil ik regelmatig een oefen-namiddag organiseren: kom af, ik voorzie
 materiaal, een beetje coaching, een uitdaging...
+
+[home](/index)
