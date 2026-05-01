@@ -3,14 +3,34 @@ permalink: /aanbod
 ---
 # Aanbod bij Mos-kus
 
-Introducties, dagworkshops, weekends.
+## Introducties
 
-* intro: one stick fire
-* wilde plantenwandeling (seizoensgebonden)
-* koken op kampvuur
+* Leer materialen verzamelen voor je vuur tijdens een [tondelwandeling].
+* Leer vuur maken als het bos doorregend is: het [one stick fire].
+* Proef van wilde planten en 'onkruid' tijdens een [wildplukwandeling] (seizoensgebonden)
+* Bereid je eigen maaltijd: [koken op kampvuur]
+
+[tondelwandeling]: /aanbod/tondelwandeling
+[one stick fire]: /aanbod/one-stick-fire
+[wildplukwandeling]: /aanbod/wildplukwandeling
+[koken op kampvuur]: /aanbod/koken-op-kampvuur
+
+## Dagworkshops
+
 * nieuw: dag: 3 soorten kampvuur
-* nieuw: dag: spanzaag met vers hout
-* nieuw: dag: rugzak met vers hout
+* binnenkort: dag: spanzaag met vers hout
+* binnenkort: dag: rugzak met vers hout
+
+## One-nighters en weekends
+
+Het is zo veel leuker als de vogels je wakkerfluiten, en je
+zachtjes ochtendfrisse buitenlucht over je wangen voelt strijken.
+
+Bij een one-nighter komen we 's avonds samen, en beginnen we
+vroeg aan de dag.  De 'echte' activiteit begint na een ontbijt
+met kampvuurthee of -koffie; dan kunnen ook 'dagdeelnemers' aansluiten.
+
+De dagworkshops kunnen ook als one-nighter aangeboden worden.
 
 ## Op maat
 
