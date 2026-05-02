@@ -1,6 +1,7 @@
 ---
 permalink: /aanbod/tondelwandeling
-title: moss-kiss: tondelwandeling
+title: moss-kiss tondelwandeling
+layout: default
 ---
 
 # Tondelwandeling

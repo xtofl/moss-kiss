@@ -1,5 +1,6 @@
 ---
 permalink: /wildernis
+layout: default
 ---
 # Wildernis
 

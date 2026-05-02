@@ -1,7 +1,8 @@
 ---
 permalink: /aanbod
+layout: default
 ---
-# Aanbod bij Mos-kus
+# Aanbod bij Moss-kiss
 
 ## Introducties
 

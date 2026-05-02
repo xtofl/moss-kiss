@@ -1,6 +1,7 @@
 ---
 permalink: /aanbod/koken-op-kampvuur
 title: Koken op kampvuur
+layout: default
 ---
 
 # Koken op kampvuur

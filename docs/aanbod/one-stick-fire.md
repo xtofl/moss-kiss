@@ -1,6 +1,7 @@
 ---
 permalink: /aanbod/one-stick-fire
 title: One-stick fire
+layout: default
 ---
 
 # One-stick fire

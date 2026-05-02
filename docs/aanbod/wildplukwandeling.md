@@ -1,6 +1,7 @@
 ---
 permalink: /aanbod/wildplukwandeling
 title: Wildpluk wandeling
+layout: default
 ---
 
 (Nog niet beschikbaar)

@@ -1,7 +1,8 @@
 ---
 permalink: /contact
+layout: default
 ---
-# Mos-kus Bushcraft
+# Moss-kiss Bushcraft
 
 ## Contact
 
