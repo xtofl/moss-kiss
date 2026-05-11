@@ -3,9 +3,10 @@
 
 @import "{{ site.theme }}";
 
-nav {
-    background: red;
+#header { nav {
+    background: var(--fbc-secondary-text);
     .active {
         background-color: yellow;
     }
+}
 }
