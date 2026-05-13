@@ -20,7 +20,10 @@
   <body>
       <div id="header">
         <nav>
-            <ul>
+            <input type="checkbox" id="mobile-menu-toggle" class="mobile-menu-toggle" aria-hidden="true" hidden>
+            <label for="mobile-menu-toggle" class="mobile-menu-button" aria-label="Toggle menu">☰</label>
+    
+            <ul class="nav-menu">
                 {% for item in site.data.menu %}
                 <li><a
                     href="{{item.permalink}}"

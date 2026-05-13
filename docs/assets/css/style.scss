@@ -1,12 +1,85 @@
 ---
 ---
-
 @import "{{ site.theme }}";
 
-#header { nav {
-    background: var(--fbc-secondary-text);
-    .active {
-        background-color: yellow;
+#header {
+    nav {
+        background: var(--fbc-secondary-text);
+        .mobile-menu-button {
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            color: var(--text-color);
+            cursor: pointer;
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            z-index: 1001;
+        }
+        .active {
+            color: black;
+        }
     }
 }
+
+
+@media print,
+screen and (max-width: 480px) {
+
+    #header {
+        margin-top: -20px;
+    }
+
+    section {
+        margin-top: 40px;
+    }
+
+    nav {
+        display: inline;
+    }
+
+    .nav-menu {
+        position: fixed;
+        top: 60px;
+        /* Adjust based on your header height */
+        left: 0;
+        width: 100%;
+        background-color: var(--nav-bg-color, #2c3e50);
+        /* Fallback color */
+        flex-direction: column;
+        align-items: center;
+        padding: 1rem 0;
+        gap: 1rem;
+        transform: translateY(-300%);
+        transition: transform 0.3s ease-in-out;
+        z-index: 1000;
+    }
+
+    .mobile-menu-toggle {
+        /* Hide the checkbox visually */
+        position: absolute;
+        opacity: 0;
+    }
+
+    .mobile-menu-button {
+        background: none;
+        border: none;
+        font-size: 1.5rem;
+        color: var(--text-color);
+        cursor: pointer;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        z-index: 1001;
+    }
+
+    /* Show menu when checkbox is checked */
+    .mobile-menu-toggle:checked~.nav-menu {
+        transform: translateY(-100%);
+    }
+
+    /* Hide menu when clicking outside */
+    .nav:not(:focus-within) .nav-menu {
+        transform: translateY(-100%);
+    }
 }
