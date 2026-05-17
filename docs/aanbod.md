@@ -18,9 +18,9 @@ layout: default
 
 ## Dagworkshops
 
-* in aanbouw: 3 soorten kampvuur
-* in aanbouw: spanzaag met vers hout
-* in aanbouw: rugzak met vers hout
+* (Nog niet beschikbaar) Leer over verschillende [soorten kampvuur](/aanbod/dag/soorten-kampvuur)
+* (Nog niet beschikbaar) Maak je eigen [rugzak van groenhout](aanbod/dag/rugzak-groenhout)
+* (Nog niet beschikbaar) Maak je eigen [spanzaag van groenhout](aanbod/dag/spanzaag-groenhout)
 
 ## One-nighters en weekends
 
