@@ -4,6 +4,7 @@ title: moss-kiss tondelwandeling
 layout: default
 ---
 
+# Tondelwandeling
 
 Met enkel een fire-steel op zak - een hoogst betrouwbare 'vonkentrekker' -
 zoeken we fijn droog materiaal dat we tijdens een wandeling rondom ons vinden.
