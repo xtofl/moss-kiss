@@ -9,3 +9,5 @@ Deze site is het evenbeeld van mijn idee over bushcraften:
 * low tech
 * alles zelf onder controle
 * zelfgemaakt, to the point
+
+De layout?  Theme by [mattgraham](https://twitter.com/mattgraham)
