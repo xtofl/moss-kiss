@@ -4,13 +4,19 @@ layout: draft
 title: Soorten Kampvuur
 ---
 
-Afhankelijk van de situatie leg je je vuur aan op een andere manier.
+# Soorten kampvuur
 
-Moet het zuinig?  Heet?  Ga je koken, of wil je graag de rest van
-de avond rustig chillen?  Wil je wat licht, of kan het zelfs onzichtbaar?
+Wat wil ik eigenlijk van mijn vuur?  En hoe zorg ik daarvoor?
+
+Afhankelijk van de situatie leggen we ons vuur aan op een andere manier.
+
+Moet het zuinig?  Heet?  Gaan we koken, of willen we graag de rest van
+de avond rustig chillen?  Willen we wat licht, of kan het zelfs onzichtbaar?
 
 Deze vragen beantwoorden we tijdens een dagworkshop over verschillende
 soorten vuur.
 
-De nadruk ligt niet meer op het aanmaken, maar wel op de vorm en
-het gedrag van het vuur.
+Tijdens deze dag ligt de nadruk ligt niet meer op het aansteken,
+maar wel op de vorm en het gedrag van het vuur.
+
+<img src="/aanbod/vuur-in-bos.jpg" alt="vuur in bos"/>
