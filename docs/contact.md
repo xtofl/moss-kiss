@@ -13,6 +13,6 @@ Moss-kiss bushcraft.  [info@moss-kiss.be](mailto://info@moss-kiss.be).
 * Rekening BE78 7390 2947 7186
 * Ondernemingsnummer: 1031604007
 
-<img width="320px" src="/contact.jpg"/>
+<img src="/linde-backlight.jpg"/>
 
 [about this website](/about-site)

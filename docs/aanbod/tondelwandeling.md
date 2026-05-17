@@ -16,4 +16,4 @@ kunnen laten ontvlammen.
 Na deze workshop maak jij een vuur met spul dat je rondom jou in
 de natuur kan vinden.
 
-<img src="/aanbod/tondel-in-vuurschaal.jpg" width="320px"/>
+<img src="/aanbod/tondel-in-vuurschaal.jpg"/>
