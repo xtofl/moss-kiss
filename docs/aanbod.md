@@ -19,8 +19,8 @@ layout: default
 ## Dagworkshops
 
 * (Nog niet beschikbaar) Leer over verschillende [soorten kampvuur](/aanbod/dag/soorten-kampvuur)
-* (Nog niet beschikbaar) Maak je eigen [rugzak van groenhout](aanbod/dag/rugzak-groenhout)
-* (Nog niet beschikbaar) Maak je eigen [spanzaag van groenhout](aanbod/dag/spanzaag-groenhout)
+* (Nog niet beschikbaar) Maak je eigen [rugzak van groenhout](/aanbod/dag/rugzak-groenhout)
+* (Nog niet beschikbaar) Maak je eigen [spanzaag van groenhout](/aanbod/dag/spanzaag-groenhout)
 
 ## One-nighters en weekends
 
