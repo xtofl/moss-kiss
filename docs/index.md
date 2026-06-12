@@ -16,4 +16,4 @@ Zelf ben ik een all-rounder: van alles wel wat.  Dat betekent dat ik voor
 iedereen wel iets interessants kan bieden.  Verdieping - daarvoor kan ik je
 dan doorverwijzen naar opleidingen bij collega's.
 
-<img src="/mos-mes.jpg" alt="mes op moskussen"/>
+<img src="/mos-mes.web.jpg" alt="mes op moskussen"/>

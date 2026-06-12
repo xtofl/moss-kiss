@@ -32,7 +32,7 @@ clean:
 	-rm -rf _output
 
 ## Conveniences to scale down web images
-IMAGE_SOURCES = $(filter-out %.web.jpg,$(wildcard docs/**/*.jpg))
+IMAGE_SOURCES = $(filter-out %.web.jpg,$(wildcard docs/*.jpg))
 WEB_IMAGES = $(addsuffix .web.jpg,$(basename ${IMAGE_SOURCES}))
 web-images: ${WEB_IMAGES}
 web-images-clean:

@@ -19,4 +19,4 @@ soorten vuur.
 Tijdens deze dag ligt de nadruk ligt niet meer op het aansteken,
 maar wel op de vorm en het gedrag van het vuur.
 
-<img src="/aanbod/vuur-in-bos.jpg" alt="vuur in bos"/>
+<img src="/aanbod/dag/vuur-in-bos-web.jpg" alt="vuur in bos"/>

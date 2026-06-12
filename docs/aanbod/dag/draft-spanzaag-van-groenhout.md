@@ -19,4 +19,4 @@ plaats in onze rugzak.
 Je gaat naar huis met je eigen zaagje, en met de skill om er eentje te bouwen
 wanneer het nodig is.
 
-<img src="/aanbod/dag/spanzaag-light.jpg" alt="spanzaag"/>
+<img src="/aanbod/dag/spanzaag.web.jpg" alt="spanzaag"/>

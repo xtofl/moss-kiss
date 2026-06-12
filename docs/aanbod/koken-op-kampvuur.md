@@ -15,4 +15,4 @@ krijgen.
 Na deze workshop kan jij een lekkere maaltijd bereiden
 op het kampvuur.
 
-<img src="/aanbod/koffie-boven-vuur.jpg" alt="koffiekop hangt boven het vuur"/>
+<img src="/aanbod/koffie-boven-vuur.web.jpg" alt="koffiekop hangt boven het vuur"/>
