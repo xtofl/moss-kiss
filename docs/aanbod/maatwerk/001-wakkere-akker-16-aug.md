@@ -39,10 +39,9 @@ Na deze wandeling herken je een paar planten die veilig zijn
 om op te eten. Wie weet kunnen we er een paar bereiden op
 het vuur!
 
-
 ## Workshop vuur maken
 
-<img src="/aanbod/tondel-in-vuurschaal.web.jpg"/>
+<img src="/sparks.web.jpg"/>
 
 Met enkel een fire-steel op zak - een hoogst betrouwbare
 'vonkentrekker' - zoeken we fijn droog materiaal dat we
