@@ -4,20 +4,27 @@ title: wakkere bushcraftochtend
 layout: draft
 ---
 
-# Bushcraft voormiddag
+# Wildpluk en vuur-workshop
 
-Na een heerlijke nachtrust buiten staan we op, en na het
-ontbijt kan je aansluiten bij een bushcraft ervaring.
+[Schrijf je hier in](#inschrijven) voor een bushcraft
+ervaring op zondagochtend 16 augustus, in samenwerking met
+[De Wakkere Akker](https://wakkereakker.be/).
 
-- Wat? [Wildplukwandeling](#wildpluk-wandeling) en
+Wie wil kan al van de avond tevoren komen kamperen!
+
+- **Wat**? [Wildplukwandeling](#wildpluk-wandeling) en
   [vuurworkshop](#workshop-vuur-maken).
-- Wanneer? 16 augustus 2026, 09:00-13:00. Ongeveer.
-- Wie? Vanaf 10 jaar, of vanaf 7 jaar met ouder/begeleider
-- Prijs? 80 euro per persoon
-
-[naar inschrijvingsformulier](#inschrijven)
+- **Wanneer**? Zondag 16 augustus 2026, **09:00-13:00**.
+  Ongeveer.
+- **Waar**?
+  [De Wakkere Akker, Blakstraat 53, Herent](https://maps.app.goo.gl/q3JhKJXox3YJEyhY9)
+- **Wie**? Vanaf 10 jaar, of vanaf 7 jaar als er ook een
+  ouder/begeleider inschrijft.
+- **Prijs**? 80 euro per persoon
 
 ## Wildpluk-wandeling
+
+<img src="/aanbod/weegbree-topjes.web.jpg" width="200px"/>
 
 Langs de bermen, tegen het bos aan, groeit heel wat lekkers.
 Superfijn om op een biologisch veld naar heerlijk onkruid te
@@ -32,9 +39,10 @@ Na deze wandeling herken je een paar planten die veilig zijn
 om op te eten. Wie weet kunnen we er een paar bereiden op
 het vuur!
 
-<img src="/aanbod/weegbree-topjes.web.jpg"/>
 
 ## Workshop vuur maken
+
+<img src="/aanbod/tondel-in-vuurschaal.web.jpg"/>
 
 Met enkel een fire-steel op zak - een hoogst betrouwbare
 'vonkentrekker' - zoeken we fijn droog materiaal dat we
@@ -47,7 +55,6 @@ verschillende tondels kunnen laten ontvlammen.
 Na deze workshop maak jij een vuur met spul dat je rondom
 jou in de natuur kan vinden.
 
-<img src="/aanbod/tondel-in-vuurschaal.web.jpg"/>
 
 ## Inschrijven
 <a name="inschrijven">
@@ -60,14 +67,17 @@ wakkere akker"
 
 <table>
 
-<tr><td> Naam</td><td><input type="text" name="naam"
-required /></td></tr>
+<tr><td>Naam</td><td><input type="text" name="naam" required
+/></td></tr>
 
-<tr><td> E-mail</td><td><input type="email" name="email"
+<tr><td>E-mail</td><td><input type="email" name="email"
 required/></td></tr>
 
-<tr><td>7+ kind naam</td><td><input type="text" name="kind"
-value="<geen>" /></td></tr>
+<tr><td>Naam kind (<10j)</td><td><input type="text"
+name="kind" value="<geen>" /></td></tr>
+
+<tr><td>Kampeer van zaterdag</td><td><input type="checkbox"
+name="kampeert"/></td></tr>
 
 </table>
 
