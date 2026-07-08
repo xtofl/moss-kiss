@@ -57,35 +57,9 @@ jou in de natuur kan vinden.
 ## Inschrijven
 <a name="inschrijven">
 
-Vul het formulier in en verstuur als email. Wees er snel
-bij: we kunnen maar 15 personen toelaten, en wie eerst komt,
-eerst maalt. We mailen je een betaalopdracht; na betaling
-ben je ingeschreven.  
+Wees er snel bij: we kunnen maar 15 personen toelaten, en
+wie eerst komt, eerst maalt. We mailen je een
+betaalopdracht; na betaling ben je ingeschreven.  
 
-<form
-action="mailto:info@moss-kiss.be?Subject=event-001:inschrijving"
-method="post" enctype="text/plain" name="inschrijving
-wakkere akker"
-> 
-
-<table>
-
-<tr><td>Naam</td><td><input type="text" name="naam" required
-/></td></tr>
-
-<tr><td>E-mail</td><td><input type="email" name="email"
-required/></td></tr>
-
-<tr><td>GSM</td><td><input type="tel" name="tel"
-required/></td></tr>
-
-<tr><td>Naam kind (<10j)</td><td><input type="text"
-name="kind" value="<geen>" /></td></tr>
-
-<tr><td>Kampeer van zaterdag</td><td><input type="checkbox"
-name="kampeert"/></td></tr>
-
-</table>
-
-<input type="submit" value="Stuur email">
-</form>
+<a href="https://forms.gle/ui6VTddFLvx71EZ36"
+target="_blank">Naar formulier</a>
