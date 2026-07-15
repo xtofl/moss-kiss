@@ -1,26 +1,28 @@
 ---
 permalink: /aanbod/maat/001-wakkere-akker
 title: wakkere bushcraftochtend
-layout: draft
+layout: default
 ---
 
-# Wildpluk en vuur-workshop
+# Wakkere wildpluk- en vuur-workshop
 
-[Schrijf je hier in](#inschrijven) voor een bushcraft
-ervaring op zondagochtend 16 augustus, in samenwerking met
-[De Wakkere Akker](https://wakkereakker.be/).
+Op zondag 16 augustus, op het
+[kampeerweekend van de Wakkere Akker](https://fb.me/e/elLqKlasp),
+organizeren we een bushcraft ervaring. twee aaneensluitende
+workshops: wildplukken en vuur maken met het fire-steel.
 
-Wie wil kan al van de avond tevoren komen kamperen!
+[Schrijf je hier in](#inschrijven)!
 
-- **Wat**? [Wildplukwandeling](#wildpluk-wandeling) en
+- **Wat**? [Wildplukwandeling](#wildpluk-wandeling) en/of
   [vuurworkshop](#workshop-vuur-maken).
 - **Wanneer**? Zondag 16 augustus 2026, **09:00-13:00**.
   Ongeveer.
 - **Waar**?
-  [De Wakkere Akker, Blakstraat 53, Herent](https://maps.app.goo.gl/q3JhKJXox3YJEyhY9)
+  [De Wakkere Akker, Blakstraat 53, Herent](https://maps.app.goo.gl/q3JhKJXox3YJEyhY9).
+  Verzamel aan de akkerhut.
 - **Wie**? Vanaf 10 jaar, of vanaf 7 jaar als er ook een
   ouder/begeleider inschrijft.
-- **Prijs**? 80 euro per persoon
+- **Prijs**? 40 euro per workshop per persoon
 
 ## Wildpluk-wandeling
 
@@ -48,11 +50,11 @@ Met enkel een fire-steel op zak - een hoogst betrouwbare
 tijdens een wandeling rondom ons vinden.
 
 We leren hoe we efficient en veilig een vuur aanmaken en
-weer opruimen. We oefenen met het fire steel zodat we
+weer opruimen. We oefenen met het fire-steel zodat we
 verschillende tondels kunnen laten ontvlammen.
 
-Na deze workshop maak jij een vuur met spul dat je rondom
-jou in de natuur kan vinden.
+Na deze workshop maak jij makkelijk vuur met spul dat je
+rondom jou in de natuur kan vinden.
 
 ## Inschrijven
 <a name="inschrijven">
