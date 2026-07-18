@@ -4,22 +4,25 @@ title: wakkere bushcraftochtend
 layout: default
 ---
 
-# Wakkere wildpluk- en vuur-workshop
+# Wakkere wildpluk-, vuur- en houtskoolworkshops
 
 Op zondag 16 augustus, op het
 [kampeerweekend van de Wakkere Akker](https://fb.me/e/elLqKlasp),
-organizeren we een bushcraft ervaring. twee aaneensluitende
-workshops: wildplukken en vuur maken met het fire-steel.
+organizeren we een bushcraft ervaring. drie aaneensluitende
+workshops: wildplukken, vuur maken met het fire-steel en een
+tekenworkshop met (zelfgemaakt) houtskool.
 
 [Schrijf je hier in](#inschrijven)!
 
-- **Wat**? [Wildplukwandeling](#wildpluk-wandeling) en/of
-  [vuurworkshop](#workshop-vuur-maken).
-- **Wanneer**? Zondag 16 augustus 2026, **09:00-13:00**.
+- **Wat**? 
+  - [Wildplukwandeling](#wildpluk-wandeling) (09:00) en/of
+  - [Vuurworkshop](#workshop-vuur-maken) (11:00) en/of
+  - [Houtskool tekenworkshop](#houtskooltekenen) (14:00).
+- **Wanneer**? Zondag 16 augustus 2026, **09:00-16:00**.
   Ongeveer.
 - **Waar**?
   [De Wakkere Akker, Blakstraat 53, Herent](https://maps.app.goo.gl/q3JhKJXox3YJEyhY9).
-  Verzamel aan de akkerhut.
+  Verzamel aan de centrale akkerhut.
 - **Wie**? Vanaf 10 jaar, of vanaf 7 jaar als er ook een
   ouder/begeleider inschrijft.
 - **Prijs**? 40 euro per workshop per persoon
@@ -56,11 +59,20 @@ verschillende tondels kunnen laten ontvlammen.
 Na deze workshop maak jij makkelijk vuur met spul dat je
 rondom jou in de natuur kan vinden.
 
-## Inschrijven
-<a name="inschrijven">
+## Houtskooltekenen
 
-Wees er snel bij: we kunnen maar 15 personen toelaten, en
-wie eerst komt, eerst maalt. We mailen je een
+<img src="/aanbod/houtskooltekening.web.jpg"/>
+
+Tot rust komen met een artistieke bezigheid. Leer planten of
+natuur tekenen met houtskool.
+
+Je gaat naar huis met je tekening en een paar houtskool
+stiften om je nieuwe skill nog wat verder te oefenen.
+
+## Inschrijven
+
+Wees er snel bij: we kunnen maar 15 personen per workshop
+toelaten, en wie eerst komt, eerst maalt. We mailen je een
 betaalopdracht; na betaling ben je ingeschreven.  
 
 <a href="https://forms.gle/ui6VTddFLvx71EZ36"
