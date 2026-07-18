@@ -4,6 +4,10 @@ layout: default
 ---
 # Aanbod bij Moss-kiss
 
+## Binnenkort
+
+* 16 augustus: [wakkere bushcraftochtend](/aanbod/maat/001-wakkere-akker): wildpluk en vuurworkshop in Herent
+
 ## Introducties
 
 * Leer materialen verzamelen voor je vuur tijdens een [tondelwandeling].
